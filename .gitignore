@@ -1,0 +1,13 @@
+node_modules
+coverage
+coverage.json
+
+#Hardhat files
+cache
+artifacts
+
+.DS_Store
+
+#Project files
+.idea/
+.vscode/
